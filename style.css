@@ -21,6 +21,7 @@ body{
     border-radius: 10px;
     color: white;
     overflow: hidden;
+    user-select: none;
 }
 #container img{
     height: 100%;
